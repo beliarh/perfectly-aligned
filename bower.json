@@ -1,0 +1,20 @@
+{
+  "name": "perfectly-aligned",
+  "main": "perfectly-aligned.js",
+  "version": "0.0.1",
+  "authors": [
+    "Dmitry Artemov"
+  ],
+  "description": "JavaScript pixel-perfect plugin",
+  "keywords": [
+    "pixel",
+    "perfect",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/beliarh/perfectly-aligned",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}

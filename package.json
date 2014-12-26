@@ -1,0 +1,25 @@
+{
+  "name": "perfectly-aligned",
+  "version": "0.0.1",
+  "description": "JavaScript pixel-perfect plugin",
+  "main": "perfectly-aligned.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beliarh/perfectly-aligned.git"
+  },
+  "keywords": [
+    "pixel",
+    "perfect",
+    "javascript"
+  ],
+  "author": "Dmitry Artemov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beliarh/perfectly-aligned/issues"
+  },
+  "homepage": "https://github.com/beliarh/perfectly-aligned",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.7.0"
+  }
+}
