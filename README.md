@@ -26,7 +26,7 @@ Default value:
 {
     position: 'absolute',
     left: '0',
-    right: '0',
+    top: '0',
     display: 'none',
     width: '100%',
     height: 'auto',
