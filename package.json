@@ -1,6 +1,6 @@
 {
   "name": "perfectly-aligned",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JavaScript pixel-perfect plugin",
   "main": "perfectly-aligned.js",
   "repository": {
