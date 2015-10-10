@@ -1,4 +1,12 @@
-var perfectlyAligned = (function () {
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+        define(factory);
+    } else if (typeof module !== 'undefined' && module.exports) {
+        module.exports = factory();
+    } else {
+        root.perfectlyAligned = factory();
+    }
+})(this, function () {
     'use strict';
 
     var KEY_NUM_PLUS = 107;
@@ -102,4 +110,4 @@ var perfectlyAligned = (function () {
             });
         }
     };
-})();
+});
