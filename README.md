@@ -2,13 +2,13 @@
 
 ## Usage
 ```html
-<script src="/path/to/perfectly-aligned.min.js"></script>
+<script src="path/to/perfectly-aligned.min.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
     perfectlyAligned.init({
-        backgroundImage: 'url(/path/to/image.jpg)', // [required]
+        backgroundImage: 'url(path/to/image.jpg)', // [required]
         height: '1000px', // image height [required]
-        minWidth: '1360px', // page min-width 
+        minWidth: '1360px' // page min-width 
     });
 });
 </script>
